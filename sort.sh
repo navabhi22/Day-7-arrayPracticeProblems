@@ -28,5 +28,5 @@ done
 done
 echo ${ranNum[@]}
 
-echo "2nd largest no. is ${ranNum[2]}"
-echo "2nd smallest no. is ${ranNum[9]}"
+echo "2nd largest no. is ${ranNum[9]}"
+echo "2nd smallest no. is ${ranNum[2]}"
